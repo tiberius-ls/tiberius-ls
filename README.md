@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tiberius-ls
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the fundamentals and frameworks.
-- 💞️ I’m looking to collaborate on anything that has to do with web development
+- 🌱 I’m currently learning the fundamentals of different frameworks.
+- 💞️ I’m looking to collaborate on anything that has to do with Tech development
 - 📫 How to reach me my email:ogbonnaemeka543@gmail.com
                      
 
